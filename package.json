@@ -10,7 +10,7 @@
   "dependencies": {
     "core-js": "^2.6.5",
     "element-ui": "^2.11.1",
-    "highlight.js": "^9.15.9",
+    "highlight.js": "^10.4.1",
     "quill": "^2.0.0-dev.3",
     "quill-better-table": "^1.2.5",
     "quill-image-drop-module": "^1.0.3",
